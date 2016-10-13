@@ -1,0 +1,4 @@
+https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/
+https://ntguardian.wordpress.com/2016/09/26/introduction-stock-market-data-python-2/
+http://www.jarloo.com/yahoo_finance/
+https://www.kaggle.com/aaron7sun/stocknews
